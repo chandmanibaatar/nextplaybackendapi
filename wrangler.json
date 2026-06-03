@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nextplaybackendapi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d64cc1c5-a4c4-43c7-9a1b-50f0dee2f67e",
+			"database_name": "nextplay_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
